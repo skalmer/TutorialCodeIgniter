@@ -5,7 +5,7 @@ En el video se explica como funciona CodeIgniter con un proyecto simple de filtr
 contratos por clientes.
 
 Repositorio GitHub
-
+https://github.com/skalmer/TutorialCodeIgniter
 
 Descarga de Code Igniter
 https://codeigniter.com/download
