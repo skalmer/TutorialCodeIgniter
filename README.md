@@ -20,3 +20,6 @@ https://codeigniter.com/docs
 
 Creacion del Crud Automático para Code Igniter
 https://www.grocerycrud.com/
+
+En la carpeta DB, se encuentra el archivo SQL para crear la base de datos y sus tablas
+tambien se puede usar el archivo en GroceryCrud para que genere automaticamente el CRUD
