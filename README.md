@@ -4,6 +4,8 @@ Tutorial para empezar el desarrollo web con Code Igniter.
 En el video se explica como funciona CodeIgniter con un proyecto simple de filtracion por fechas de 
 contratos por clientes.
 
+Para acceder al codigo dentro de GitHub, ir al apartado de "Master" dentro de este repositorio
+
 Repositorio GitHub
 https://github.com/skalmer/TutorialCodeIgniter
 
